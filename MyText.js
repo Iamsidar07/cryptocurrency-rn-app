@@ -4,7 +4,7 @@ import React from 'react'
 const MyText = ({style,text}) => {
   
   return (
-    <Text style={[{ fontFamily: "Poppins-Regular",fontSize:12 },style, ]}>{text}</Text>
+    <Text style={[{ fontFamily: "SpaceGrotesk-Regular",fontSize:10,color:"white" },style, ]}>{text}</Text>
   )
 }
 
