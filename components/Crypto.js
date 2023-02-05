@@ -31,7 +31,7 @@ const Crypto = ({ coinUrl ="https://img.icons8.com/color/512/ethereum.png",coinN
               }}>
 
                   {
-                      rate >= 0 ? <Image source={{ uri: "https://cdn-icons-png.flaticon.com/512/4256/4256900.png" }} resizeMode="contain" style={{ width: 17, height: 17, }} /> : <Image source={{ uri: "https://cdn-icons-png.flaticon.com/512/8774/8774665.png" }} resizeMode="contain" style={{ width: 17, height: 17, }} />
+                      rate >= 0 ? <Image source={{ uri: "https://cdn-icons-png.flaticon.com/512/4256/4256900.png" }} resizeMode="contain" style={{ width: 17, height: 17}} /> : <Image source={{ uri: "https://cdn-icons-png.flaticon.com/512/8774/8774665.png" }} resizeMode="contain" style={{ width: 17, height: 17 }} />
                   }
                   <MyText text={rate+" %"} style={{ color: rate >= 0 ? "green" : "red", marginLeft: 15,fontSize:16 }} />
               </View>

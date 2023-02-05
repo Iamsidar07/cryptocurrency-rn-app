@@ -18,8 +18,9 @@ const HomeScreen = () => {
                 {/* header  */}
                 <Header/>
                 {/* wallets  */}
-                <ScrollView horizontal snapToInterval={width * 0.95}  showsHorizontalScrollIndicator={false} contentContainerStyle={{
+                <ScrollView horizontal snapToInterval={width * 0.9}  showsHorizontalScrollIndicator={false} contentContainerStyle={{
                     marginVertical: 20,
+                    padding:5,
                 }}>
                     {/* walllet  */}
                   <Wallets />

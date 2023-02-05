@@ -2,16 +2,17 @@ import { View, Text, TouchableOpacity,Dimensions } from 'react-native'
 import React from 'react'
 import MyText from '../MyText'
 import { AntDesign, FontAwesome, Entypo, FontAwesome5 } from '@expo/vector-icons';
-const Wallets = ({ bg ="#1E1E1E"}) => {
+const Wallets = ({ bg ="#242424"}) => {
     const width=Dimensions.get('screen').width;
   return (
       <TouchableOpacity>
           <View style={{
-              width: width * 0.95,
+              width: width*0.9 ,
               height: 220,
-              padding: 20,
+              paddingVertical: 30,
+              paddingHorizontal: 20,
               backgroundColor:bg,
-              borderRadius: 20,
+              borderRadius: 25,
               marginRight: 10,
               justifyContent: "space-evenly",
           }}>
