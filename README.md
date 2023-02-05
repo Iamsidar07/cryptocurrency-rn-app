@@ -1,5 +1,4 @@
 # cryptocurrency-rn-app
 
-![Screenshot_1675605000_iphone13blue_portrait](https://user-images.githubusercontent.com/95513071/216833772-3e46ba14-e349-42df-9e39-a33ec34772e4.png)
-
-![Screenshot_1675605000_iphone13blue_landscape](https://user-images.githubusercontent.com/95513071/216833762-b057a1c5-0103-4626-ad05-543e0de6535c.png)
+![Screenshot_1675623810_iphone13blue_portrait](https://user-images.githubusercontent.com/95513071/216840037-878ec50a-c511-42ca-a43a-03dafc919a4b.png)
+![Screenshot_1675623810_iphone13blue_landscape](https://user-images.githubusercontent.com/95513071/216840041-8dfea3d1-3497-4245-8752-3c416e89c504.png)
